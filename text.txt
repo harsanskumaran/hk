@@ -1,1 +1,4 @@
+<<<<<<< HEAD
  Acho acho, enai unadium thantheyney welcome
+=======
+>>>>>>> parent of 6e7b0ad (Now)
